@@ -54,9 +54,9 @@ Hi there! I'm Nikhita Shankar, a **Master's student in Business Analytics** at U
 
 ## 📈 What I'm Working On
 
-- 📊 Developing a **workforce insights dashboard** for Colorado West Healthcare using IBM Cognos.  
-- 🌐 Building a **Yelp data pipeline** for a semi-structured to SQL Server transformation project.  
-- 🤖 Exploring **large language models (LLMs)** and their applications in cognitive support for elderly patients.  
+- **Workforce Insights Dashboard:** Developing a **comprehensive workforce insights dashboard** for Colorado West Healthcare using IBM Cognos to analyze productivity, turnover rates, and salary distribution.  
+- **Cinema Insights Dashboard:** Creating a **Cinema Engagement Dashboard** in Tableau to explore user engagement and ratings trends using MovieLens data. This project highlights insights such as peak engagement times, top-rated movies by genre, and ratings distribution over the years.  
+- **Data Pipeline Project:** Building a **Yelp data pipeline** for a semi-structured to SQL Server transformation project.  
 
 ---
 
